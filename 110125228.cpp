@@ -1,5 +1,5 @@
 #include<stdio.h>
-//cc gia huy
+
 int main()
 {
 	int a,b,tong,hieu,tich;
@@ -22,4 +22,5 @@ int main()
 	
 	return 0;
 }
+
 
